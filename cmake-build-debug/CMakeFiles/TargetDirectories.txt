@@ -1,0 +1,3 @@
+/home/piotr/CLionProjects/STM32_TFT/cmake-build-debug/CMakeFiles/STM32_TFT.elf.dir
+/home/piotr/CLionProjects/STM32_TFT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/piotr/CLionProjects/STM32_TFT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

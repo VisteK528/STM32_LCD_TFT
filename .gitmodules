@@ -1,0 +1,3 @@
+[submodule "third_party/hagl"]
+	path = third_party/hagl
+	url = https://github.com/tuupola/hagl
